@@ -2,7 +2,9 @@
 
 ## Project Overview
 This project is under the Data Scientist Nanodegree (Capstone). The data is not included in the repository as per instructions.<br>
-The purpose of the project is to clean data, then perform supervised and unsupervised ML on it.
+The purpose of the project is to clean data, then perform supervised and unsupervised ML on it.<br>
+For project report, please refer to the following link:<br>
+https://medium.com/@mohammed.sarraj/capstone-project-customer-segmentation-report-for-arvato-financial-services-e882df013a7b
 
 ## Project Files
 ### Arvato Project Workbook.ipynb
